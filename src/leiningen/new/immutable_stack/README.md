@@ -16,4 +16,8 @@ Some of the strongest opinions are:
 
   * Datomic is much better than traditional SQL RDBMSs
 
-  * Ring and
+  * Ring And Bidi are all the web framework we need.
+
+  * what else?
+
+All of these opinions are held weakly. Tell us your opinions!

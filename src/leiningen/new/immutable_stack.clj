@@ -5,7 +5,7 @@
 (def render (renderer "immute"))
 
 (defn immute
-  "FIXME: write documentation"
+  "We need docs on how to use this"
   [name]
   (let [data {:name name
               :sanitized (name-to-path name)}]
